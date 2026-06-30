@@ -8,44 +8,53 @@ while (!success) {
 }
 ```
 
-🎓 B.Tech Mathematics & Computing Student at IIEST Shibpur
+🎓 **B.Tech Mathematics & Computing** @ **IIEST Shibpur**
 
-## 💻 Interested in:
-- Software Engineering
-- Artificial Intelligence & Machine Learning
-- Cybersecurity
-- Quantitative Finance
-- Open Source
+I'm passionate about building software, exploring AI, solving challenging problems, and continuously learning new technologies.
 
-### 🌱 Currently learning: C++ , Data Structures & Algorithms , System Design
+## 🚀 Interests
 
+- 💻 Software Engineering
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔐 Cybersecurity
+- 📈 Quantitative Finance
+- 🌍 Open Source
 
-## 🛠 Tech Stack
+## 🌱 Currently Learning
 
-**Languages**
+- C++
+- Data Structures & Algorithms
+- System Design
+
+## 🛠️ Tech Stack
+
+### Languages
 - Python
 - C++
 - JavaScript
 
-**Frameworks**
+### Frameworks & Libraries
 - React
 - FastAPI
 
-**Tools**
+### Tools
 - Git
 - GitHub
 - Linux
 
-## 📈 Goals
+## 🎯 Goals
 
-- Build impactful open-source projects
-- Contribute to developer communities
-- Keep learning every day
+- 🚀 Build impactful open-source projects
+- 💡 Solve real-world problems through software
+- 📚 Learn something new every day
+- 🤝 Contribute to developer communities
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
 - 💼 **LinkedIn:** [Lokesh Kumar](https://www.linkedin.com/in/lokeshkr-in)
 - 💻 **GitHub:** [@lokeshkrio](https://github.com/lokeshkrio)
 - 📧 **Email:** [lokeshkr.tech@gmail.com](mailto:lokeshkr.tech@gmail.com)
 
-⭐ Thanks for visiting my profile!
+---
+
+> *"The best way to predict the future is to build it."* 🚀
