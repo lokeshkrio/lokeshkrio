@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I'm Lokesh Kumar
 
-<!--
-**lokeshkrio/lokeshkrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+while (!success) {
+    learn();
+    build();
+    improve();
+}
+```
 
-Here are some ideas to get you started:
+🎓 B.Tech Mathematics & Computing Student at IIEST Shibpur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in:
+- Software Engineering
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- Quantitative Finance
+- Open Source
+
+🌱 Currently learning:
+- C++
+- Data Structures & Algorithms
+- System Design
+
+🚀 Building projects with Python, JavaScript, React, C++ and Java.
+
+## 📈 Goals
+
+- Build impactful open-source projects
+- Contribute to developer communities
+- Keep learning every day
+
+## 📫 Connect with me
+
+- 💼 **LinkedIn:** [Lokesh Kumar](https://www.linkedin.com/in/lokeshkr-in)
+- 💻 **GitHub:** [@lokeshkrio](https://github.com/lokeshkrio)
+- 📧 **Email:** [lokeshkr.tech@gmail.com](mailto:lokeshkr.tech@gmail.com)
+
+⭐ Thanks for visiting my profile!
