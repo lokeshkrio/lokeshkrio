@@ -10,19 +10,31 @@ while (!success) {
 
 🎓 B.Tech Mathematics & Computing Student at IIEST Shibpur
 
-💻 Interested in:
+## 💻 Interested in:
 - Software Engineering
 - Artificial Intelligence & Machine Learning
 - Cybersecurity
 - Quantitative Finance
 - Open Source
 
-🌱 Currently learning:
-- C++
-- Data Structures & Algorithms
-- System Design
+### 🌱 Currently learning: C++ , Data Structures & Algorithms , System Design
 
-🚀 Building projects with Python, JavaScript, React, C++ and Java.
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- C++
+- JavaScript
+
+**Frameworks**
+- React
+- FastAPI
+
+**Tools**
+- Git
+- GitHub
+- Linux
 
 ## 📈 Goals
 
