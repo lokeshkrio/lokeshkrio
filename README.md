@@ -25,22 +25,7 @@ I'm passionate about building software, exploring AI, solving challenging proble
 - C++
 - Data Structures & Algorithms
 - System Design
-
-## 🛠️ Tech Stack
-
-### Languages
 - Python
-- C++
-- JavaScript
-
-### Frameworks & Libraries
-- React
-- FastAPI
-
-### Tools
-- Git
-- GitHub
-- Linux
 
 ## 🎯 Goals
 
