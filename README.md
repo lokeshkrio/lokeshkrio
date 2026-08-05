@@ -47,13 +47,11 @@ I'm passionate about algorithms, software engineering, mathematics, and building
 
 | Platform | Profile |
 |----------|---------|
-| 🟡 Codeforces | https://codeforces.com/profile/YOUR_HANDLE |
-| 🟠 LeetCode | https://leetcode.com/u/YOUR_USERNAME/ |
-| 🟤 AtCoder | https://atcoder.jp/users/YOUR_HANDLE |
-| 🟢 CodeChef | https://www.codechef.com/users/YOUR_HANDLE |
-| ⚫ HackerRank | https://www.hackerrank.com/YOUR_USERNAME |
-| 🟣 GeeksforGeeks | https://auth.geeksforgeeks.org/user/YOUR_USERNAME |
-| 🔷 SPOJ | https://www.spoj.com/users/YOUR_USERNAME/ |
+| 🟡 Codeforces | https://codeforces.com/profile/lokeshkrcodes |
+| 🟠 LeetCode | https://leetcode.com/u/lokeshkrcodes/ |
+| 🟤 AtCoder | https://atcoder.jp/users/lokeshkrcodes |
+| 🟢 CodeChef | https://www.codechef.com/users/lokeshkrcodes |
+| ⚫ HackerRank | https://www.hackerrank.com/lokeshkrcodes |
 
 ---
 
@@ -76,7 +74,7 @@ I'm passionate about algorithms, software engineering, mathematics, and building
 
 ## 📈 Contribution Graph
 
-[![Lokesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshkrio&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Lokesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshkrio&theme=tokyo-night)]()
 
 ---
 
