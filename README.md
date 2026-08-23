@@ -15,27 +15,6 @@ I'm passionate about algorithms, software engineering, mathematics, and building
 
 ---
 
-## 🚀 About Me
-
-- 💻 Software Engineering
-- 🧠 Competitive Programming
-- 🤖 Artificial Intelligence
-- 🔐 Cybersecurity
-- 📈 Quantitative Finance
-- 🌍 Open Source
-
----
-
-## 🌱 Currently Learning
-
-- C++
-- Data Structures & Algorithms
-- Competitive Programming
-- System Design
-- Python
-
----
-
 ## 💻 Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -84,7 +63,7 @@ I'm passionate about algorithms, software engineering, mathematics, and building
 |----------|------|
 | 💼 LinkedIn | https://www.linkedin.com/in/lokeshkr-in |
 | 💻 GitHub | https://github.com/lokeshkrio |
-| 📧 Email | lokeshkr.tech@gmail.com |
+| 📧 Email | lokeshkr45116k@gmail.com |
 
 ---
 
