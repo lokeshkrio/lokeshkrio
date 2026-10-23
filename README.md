@@ -22,18 +22,6 @@ I'm passionate about algorithms, software engineering, mathematics, and building
 
 ---
 
-## 🏆 Competitive Programming
-
-| Platform | Profile |
-|----------|---------|
-| 🟡 Codeforces | https://codeforces.com/profile/lokeshkrcodes |
-| 🟠 LeetCode | https://leetcode.com/u/lokeshkrcodes/ |
-| 🟤 AtCoder | https://atcoder.jp/users/lokeshkrcodes |
-| 🟢 CodeChef | https://www.codechef.com/users/lokeshkrcodes |
-| ⚫ HackerRank | https://www.hackerrank.com/lokeshkrcodes |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
