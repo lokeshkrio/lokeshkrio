@@ -22,29 +22,6 @@ I'm passionate about algorithms, software engineering, mathematics, and building
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lokeshkrio&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshkrio&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lokeshkrio&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![Lokesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshkrio&theme=tokyo-night)]()
-
----
-
 ## 📫 Connect With Me
 
 | Platform | Link |
